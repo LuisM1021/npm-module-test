@@ -1,0 +1,12 @@
+{
+  "name": "operations-in-console",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luis M",
+  "license": "ISC",
+  "description": "Test module for arithmethic operations using console commands"
+}
