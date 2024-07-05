@@ -1,6 +1,6 @@
 {
   "name": "operations-in-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "operate": "./cli.js"
@@ -15,5 +15,10 @@
   "description": "Test module for arithmethic operations using console commands",
   "dependencies": {
     "commander": "^12.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisM1021/npm-module-test.git"
+  },
+  "homepage": "https://github.com/LuisM1021/npm-module-test#readme"
 }
